@@ -21,17 +21,7 @@
     <favorites_list name="flutter_firebase_database" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="user_dashboard.dart" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/user_dashboard.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -39,6 +29,9 @@
       <find>UserList</find>
       <find>getUser</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -60,11 +53,15 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -72,18 +69,10 @@
               <item name="flutter_firebase_database" type="b2602c69:ProjectViewProjectNode" />
               <item name="flutter_firebase_database" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="flutter_firebase_database" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flutter_firebase_database" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -217,12 +206,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5015129" side_tool="true" weight="0.57118356" />
       <window_info anchor="bottom" id="Dart Analysis" order="7" sideWeight="0.49924356" weight="0.32933104" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.57118356" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32933104" />
       <window_info anchor="right" id="Flutter Outline" order="5" weight="0.32980332" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49914238" weight="0.25416037" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49914238" visible="true" weight="0.25416037" />
       <window_info id="Structure" order="1" sideWeight="0.50085765" side_tool="true" weight="0.13313162" />
       <window_info anchor="right" id="Fabric" order="6" weight="0.32980332" />
       <window_info anchor="right" id="Theme Preview" order="7" />
@@ -240,40 +229,47 @@
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Dart Analysis" order="7" sideWeight="0.49924356" weight="0.32933104" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.24962178" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Flutter Inspector" order="8" weight="0.32980332" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.57118356" />
       <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="right" id="Fabric" order="6" weight="0.32980332" />
+      <window_info anchor="right" id="Flutter Inspector" order="8" weight="0.32980332" />
       <window_info id="Captures" order="2" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49914238" visible="true" weight="0.25416037" />
+      <window_info anchor="right" id="Flutter Outline" order="5" weight="0.32980332" />
       <window_info id="Structure" order="1" sideWeight="0.50085765" side_tool="true" weight="0.13313162" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.57632935" />
-      <window_info anchor="right" id="Flutter Outline" order="5" weight="0.32980332" />
-      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Fabric" order="6" weight="0.32980332" />
       <window_info id="Designer" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" x="21" y="223" width="1322" height="457" id="Debug" order="3" type="FLOATING" weight="0.7838765" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32933104" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5015129" side_tool="true" weight="0.57118356" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32933104" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Favorites" order="6" sideWeight="0.50085765" side_tool="true" weight="0.13313162" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32933104" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49914238" visible="true" weight="0.25416037" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/user_dashboard.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/main.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -412,8 +408,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/user_dashboard.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="595">
+          <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
         </state>
       </provider>
     </entry>
